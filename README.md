@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-I’m currently learning programming
-And I’m looking for new job opportunities
+🌱 I’m currently learning programming
+👨‍💻 And I’m looking for new job opportunities
 
 This page is under development and will be updated in the future...
 
