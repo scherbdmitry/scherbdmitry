@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+I’m currently learning programming
+And I’m looking for new job opportunities
+
+This page is under development and will be updated in the future...
+
+
 <!--
 **scherbdmitry/scherbdmitry** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
