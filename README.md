@@ -6,7 +6,7 @@
 
 This page is under development and will be updated in the future...
 
-https://leetcode.com/scherbdmitry/
+https://leetcode.com/dimasher/
 
 <!--
 **scherbdmitry/scherbdmitry** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
