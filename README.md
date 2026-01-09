@@ -1,26 +1,13 @@
-### Hi there 👋
+## DevOps / Cloud Engineer (AWS • Terraform • CI/CD • Kubernetes)
 
-<!--
-🌱 I’m currently learning programming
+Hands-on DevOps engineer with enterprise fintech background. I build and support CI/CD pipelines, automate cloud infrastructure with Terraform, and operate containerized workloads with Kubernetes.
 
-👨‍💻 And I’m looking for new job opportunities
--->
+### Featured projects
+- ✅ AWS Terraform Infrastructure + CI/CD (GitHub Actions)
+- ✅ Kubernetes Deployment + Rollback Demo (Docker, K8s)
+- ✅ Observability Stack (Prometheus, Grafana, alerts)
 
-This page is under development and will be updated in the future...
+### Skills
+AWS, Terraform, CI/CD (Jenkins/GitHub Actions), Docker, Kubernetes, Prometheus/Grafana, Bash/Python
 
-https://leetcode.com/dimasher/
-
-<!--
-**scherbdmitry/scherbdmitry** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+LinkedIn: <https://www.linkedin.com/in/dimasdevops/>
