@@ -14,4 +14,4 @@ LinkedIn: <https://www.linkedin.com/in/dimasdevops/>
 
 ## 📊 Languages & Configuration Footprint
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=scherbdmitry)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=scherbdmitry&layout=compact&langs_count=6)
