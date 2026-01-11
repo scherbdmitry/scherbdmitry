@@ -11,3 +11,7 @@ Hands-on DevOps engineer with enterprise fintech background. I build and support
 AWS, Terraform, CI/CD (Jenkins/GitHub Actions), Docker, Kubernetes, Prometheus/Grafana, Bash/Python
 
 LinkedIn: <https://www.linkedin.com/in/dimasdevops/>
+
+## 📊 Languages & Configuration Footprint
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=scherbdmitry&layout=compact&hide_border=true&langs_count=6)
