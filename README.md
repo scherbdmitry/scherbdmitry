@@ -12,7 +12,7 @@ AWS, Terraform, CI/CD (Jenkins/GitHub Actions), Docker, Kubernetes, Prometheus/G
 
 LinkedIn: <https://www.linkedin.com/in/dimasdevops/>
 
-![Top Languages](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=scherbdmitry&layout=compact)
+
 
 
 
